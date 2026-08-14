@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.omnigif.com">
-    <img src="https://www.omnigif.com/favicon.ico" alt="OmniGIF" width="64" height="64" />
+    <img src="https://www.omnigif.com/favicon.svg" alt="OmniGIF" width="64" height="64" />
   </a>
 </p>
 
