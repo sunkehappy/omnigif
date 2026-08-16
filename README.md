@@ -16,7 +16,7 @@
   <a href="https://www.omnigif.com"><img src="https://img.shields.io/website?url=https%3A%2F%2Fwww.omnigif.com" alt="Website" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License" /></a>
   <a href="https://www.omnigif.com/privacy"><img src="https://img.shields.io/badge/Privacy-First-blue.svg" alt="Privacy" /></a>
-  <a href="https://www.omnigif.com"><img src="https://img.shields.io/badge/Tools-25-orange.svg" alt="Tools" /></a>
+  <a href="https://www.omnigif.com"><img src="https://img.shields.io/badge/Tools-28-orange.svg" alt="Tools" /></a>
   <a href="https://www.omnigif.com"><img src="https://img.shields.io/badge/Processing-100%25%20Local-brightgreen.svg" alt="Local" /></a>
 </p>
 
@@ -26,7 +26,7 @@
 
 ## Introduction
 
-**[OmniGIF](https://www.omnigif.com)** is a privacy-first, browser-based GIF toolkit with **25 free tools**.
+**[OmniGIF](https://www.omnigif.com)** is a privacy-first, browser-based GIF toolkit with **28 free tools**.
 
 Convert Live Photos to GIF, edit frames, create animations, and apply effects — entirely in your browser. No uploads, no install, and 100% local processing so your files never leave your device.
 
@@ -45,7 +45,7 @@ Convert Live Photos to GIF, edit frames, create animations, and apply effects �
 
 ---
 
-## All Tools (25)
+## All Tools (28)
 
 ### Featured
 
@@ -72,6 +72,9 @@ Convert Live Photos to GIF, edit frames, create animations, and apply effects �
 | **GIF Frame Extractor** | Extract specific frames or ranges from GIF animations. | [GIF Frame Extractor](https://www.omnigif.com/gif-tools/gif-frame-extractor) |
 | **Crop GIF** | Crop animated GIFs to a custom area, square, or circle. | [Crop GIF](https://www.omnigif.com/gif-tools/crop-gif) |
 | **Trim GIF** | Trim GIFs by time or frame range and download a shorter GIF. | [Trim GIF](https://www.omnigif.com/gif-tools/trim-gif) |
+| **Reverse GIF** | Flip frame order to play animated GIFs backwards, keeping each frame delay. | [Reverse GIF](https://www.omnigif.com/gif-tools/reverse-gif) |
+| **Rotate GIF** | Rotate GIFs by 90°, 180°, 270°, or any custom angle. | [Rotate GIF](https://www.omnigif.com/gif-tools/rotate-gif) |
+| **Flip GIF** | Mirror GIF frames horizontally, vertically, or both. | [Flip GIF](https://www.omnigif.com/gif-tools/flip-gif) |
 | **GIF Compressor** | Compress animated GIFs with lossless and lossy presets. | [GIF Compressor](https://www.omnigif.com/gif-tools/gif-compressor) |
 | **Compress GIF to Size** | Compress a GIF to 1MB, 2MB, 5MB, 10MB, or a custom size. | [Compress GIF to Size](https://www.omnigif.com/gif-tools/compress-gif-to-size) |
 
@@ -111,7 +114,7 @@ Convert Live Photos to GIF, edit frames, create animations, and apply effects �
 
 ## Stats
 
-- **25** free GIF tools in one place
+- **28** free GIF tools in one place
 - **0** server uploads — 100% local processing
 - **256** colors per GIF frame (GIF89a limit)
 - **Free** forever — no account, no watermark
@@ -120,11 +123,11 @@ Convert Live Photos to GIF, edit frames, create animations, and apply effects �
 
 ## News & updates
 
+- [Rotate GIF and Flip GIF](https://www.omnigif.com/gif-tools/rotate-gif) — rotate by 90°/180°/270°/custom angle, or mirror frames
+- [Reverse GIF](https://www.omnigif.com/gif-tools/reverse-gif) — flip frame order to play animations backwards
 - [GIF Compressor and Compress GIF to Size](https://www.omnigif.com/gif-tools/gif-compressor) — quality presets or auto-compress to a target size
 - [Crop GIF and Trim GIF](https://www.omnigif.com/gif-tools/crop-gif) — crop every frame or trim by time / frame range
 - [GIF Pixelator](https://www.omnigif.com/gif-effects/gif-pixelator) — classic mosaic pixelation with live preview
-- [Vinyl Spinning GIF Maker](https://www.omnigif.com/gif-maker/vinyl-spinning-gif-maker) — album art to spinning vinyl GIF
-- [Shake Image Effect](https://www.omnigif.com/gif-maker/shake-image-effect) & [Glitch GIF Maker](https://www.omnigif.com/gif-effects/glitch-gif-maker) — motion and glitch effects
 
 More on the [OmniGIF homepage](https://www.omnigif.com).
 
@@ -138,7 +141,7 @@ More on the [OmniGIF homepage](https://www.omnigif.com).
 
 ## 项目介绍
 
-**[OmniGIF（中文版）](https://www.omnigif.com/zh)** 是一款隐私优先、基于浏览器的 GIF 工具箱，目前提供 **25** 款免费工具。
+**[OmniGIF（中文版）](https://www.omnigif.com/zh)** 是一款隐私优先、基于浏览器的 GIF 工具箱，目前提供 **28** 款免费工具。
 
 支持 Live Photo 转 GIF、逐帧编辑、制作动画与特效——全部在浏览器本地完成。无需上传、无需安装，文件不会离开你的设备。
 
@@ -157,7 +160,7 @@ More on the [OmniGIF homepage](https://www.omnigif.com).
 
 ---
 
-## 全部工具（25）
+## 全部工具（28）
 
 ### 精选
 
@@ -184,6 +187,9 @@ More on the [OmniGIF homepage](https://www.omnigif.com).
 | **GIF 帧提取** | 从 GIF 中提取指定帧或帧范围。 | [GIF 帧提取](https://www.omnigif.com/zh/gif-tools/gif-frame-extractor) |
 | **裁剪 GIF** | 按自定义区域、方形或圆形裁剪每一帧。 | [裁剪 GIF](https://www.omnigif.com/zh/gif-tools/crop-gif) |
 | **裁剪 GIF 时长** | 按时间或帧范围裁剪，下载更短的 GIF。 | [裁剪 GIF 时长](https://www.omnigif.com/zh/gif-tools/trim-gif) |
+| **GIF 倒放** | 翻转帧顺序倒放动态 GIF，并保留每一帧间隔。 | [GIF 倒放](https://www.omnigif.com/zh/gif-tools/reverse-gif) |
+| **旋转 GIF** | 将 GIF 旋转 90°、180°、270° 或任意自定义角度。 | [旋转 GIF](https://www.omnigif.com/zh/gif-tools/rotate-gif) |
+| **GIF 翻转** | 水平、垂直或双向镜像每一帧。 | [GIF 翻转](https://www.omnigif.com/zh/gif-tools/flip-gif) |
 | **GIF 压缩** | 使用无损 / 有损预设压缩动态 GIF。 | [GIF 压缩](https://www.omnigif.com/zh/gif-tools/gif-compressor) |
 | **GIF 压缩到指定大小** | 自动压缩到 1MB、2MB、5MB、10MB 或自定义大小。 | [压缩到指定大小](https://www.omnigif.com/zh/gif-tools/compress-gif-to-size) |
 
@@ -223,7 +229,7 @@ More on the [OmniGIF homepage](https://www.omnigif.com).
 
 ## 数据亮点
 
-- **25** 款免费 GIF 工具
+- **28** 款免费 GIF 工具
 - **0** 次服务器上传 — 100% 本地处理
 - **256** 色 / 帧（GIF89a 限制）
 - **永久免费** — 无需账号、无水印
@@ -232,11 +238,11 @@ More on the [OmniGIF homepage](https://www.omnigif.com).
 
 ## 更新动态
 
+- [旋转 GIF 与 GIF 翻转](https://www.omnigif.com/zh/gif-tools/rotate-gif) — 90°/180°/270°/自定义角度旋转，或水平/垂直镜像
+- [GIF 倒放](https://www.omnigif.com/zh/gif-tools/reverse-gif) — 翻转帧顺序倒放动画
 - [GIF 压缩与按大小压缩](https://www.omnigif.com/zh/gif-tools/gif-compressor) — 质量预设或自动压到目标体积
 - [裁剪 GIF 与裁剪时长](https://www.omnigif.com/zh/gif-tools/crop-gif) — 按区域裁剪，或按时间 / 帧范围裁切
 - [GIF 像素化](https://www.omnigif.com/zh/gif-effects/gif-pixelator) — 经典马赛克像素化与实时预览
-- [黑胶旋转 GIF](https://www.omnigif.com/gif-maker/vinyl-spinning-gif-maker) — 专辑封面变旋转黑胶
-- [图片抖动](https://www.omnigif.com/zh/gif-maker/shake-image-effect) 与 [Glitch GIF](https://www.omnigif.com/zh/gif-effects/glitch-gif-maker) — 抖动与故障特效
 
 更多见 [OmniGIF 中文首页](https://www.omnigif.com/zh)。
 
